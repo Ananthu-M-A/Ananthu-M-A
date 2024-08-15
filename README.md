@@ -53,6 +53,6 @@ I'm a skilled MERN Stack Developer with a strong focus on building scalable web 
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github) 
 ![Render](https://img.shields.io/badge/-Render-black?style=flat-square&logo=render)
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats [![](https://visitcount.itsvg.in/api?id=Ananthu-M-A&label=Profile%20Views&color=12&pretty=true)](https://visitcount.itsvg.in)
 ![Ananthu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ananthu-M-A&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ananthu-M-A&layout=compact&theme=radical)
