@@ -19,6 +19,7 @@ I'm a skilled MERN Stack Developer with a strong focus on building scalable web 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 
 ### Libraries & Frameworks:
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=nextdotjs)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) 
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux) 
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
